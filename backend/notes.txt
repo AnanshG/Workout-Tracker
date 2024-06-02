@@ -1,0 +1,10 @@
+packages to install for project
+
+express
+nodemon 
+dotenv
+mongoose
+
+
+to run use :
+npm run dev
