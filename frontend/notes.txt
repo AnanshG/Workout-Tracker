@@ -1,0 +1,10 @@
+to start :
+npm start
+
+
+packages to install 
+
+react-router-dom
+
+
+we use proxy for fixing the server to server request issue         2 solutions for it one is proxy  and other is installing cors in backend

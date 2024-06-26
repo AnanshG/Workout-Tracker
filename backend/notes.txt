@@ -1,0 +1,13 @@
+packages to install for project
+
+express
+nodemon 
+dotenv
+mongoose
+bcrypt
+validator
+jsonwebtoken
+
+
+to run use :
+npm run dev
